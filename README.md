@@ -18,3 +18,8 @@ P(class=traffic light), and P(class=car).
 Nms is performed to remove overlapping boxes
 
 ## Results
+![yolo](https://user-images.githubusercontent.com/41950483/71799405-2fd7bd80-307b-11ea-88e3-5e30ed9dd33a.png)
+
+Blue - Traffic Lights<br/>
+Green - Vehicles<br/>
+Red - Humans
